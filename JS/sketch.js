@@ -14,6 +14,8 @@ rect(100,100,20,20)
 fill(0,)
 textAlign(CENTER, CENTER)
 text("dit is het midden", 100,100)
+  
+ellipse(100,100,200,200)
 
 }
 
